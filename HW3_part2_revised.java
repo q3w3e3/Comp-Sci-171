@@ -3,6 +3,8 @@
 * Jack Woodrow
 *
 * This programme verifies the validity of a lock code
+* This revised version exists as it is a better solution to the problem,
+* but strays outside of the original specs.
 ***************************************/
 
 import java.util.Scanner;
