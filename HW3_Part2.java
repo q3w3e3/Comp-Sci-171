@@ -3,10 +3,6 @@
 * Jack Woodrow
 *
 * This programme verifies the validity of a lock code
-* (I realize I could/should have had a verification method which would return
-* a boolean false if any part failed, and true if none did, then had a single
-* if in main to check the value of that boolean, this would avoid the large
-* number of nested ifs)
 ***************************************/
 
 import java.util.Scanner;
